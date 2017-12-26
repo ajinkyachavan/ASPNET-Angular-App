@@ -2,7 +2,7 @@ git init
 git add -A
 git commit -m "my latest"
 
-git remote add origin https://github.com/ajinkyachavan/Udemy-ASP-Angular-DatingApp 
+git remote add origin https://github.com/ajinkyachavan/ASPNET-Angular-App 
 git fetch origin
 
 git reset origin/master
